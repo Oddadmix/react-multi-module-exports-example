@@ -1,7 +1,16 @@
 {
   "name": "react-multi-module-exports-example",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "publisher": "oddadmix",
+  "license": "MIT",
+  "description": "Example of a React library with multiple exports",
+  "keywords": [
+    "react",
+    "library",
+    "example"
+  ],
+  "homepage": "https://github.com/Oddadmix/react-multi-module-exports-example",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
