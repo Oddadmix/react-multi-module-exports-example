@@ -1,5 +1,5 @@
-export default function Button(
-  props: React.ButtonHTMLAttributes<HTMLButtonElement>
+export default function Input(
+  props: React.InputHTMLAttributes<HTMLInputElement>
 ) {
-  return <button {...props} />;
+  return <input {...props} />;
 }
