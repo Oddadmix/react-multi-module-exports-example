@@ -9,13 +9,13 @@
     "library",
     "example"
   ],
-  "main": "dist/main.js",
-  "types": "dist/main.d.ts",
+  "main": "main.js",
+  "types": "main.d.ts",
   "files": [
-    "dist"
+    "**/*"
   ],
   "homepage": "https://github.com/Oddadmix/react-multi-module-exports-example",
-  "version": "0.0.2",
+  "version": "0.0.13",
   "type": "module",
   "scripts": {
     "dev": "vite",
