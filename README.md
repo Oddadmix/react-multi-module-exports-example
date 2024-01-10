@@ -44,3 +44,5 @@ This library can be consumed as
 //Example of usage
 import { Button } from 'react-multi-module-exports-example/Button';
 ```
+
+Followed some of the guide in https://dev.to/receter/how-to-create-a-react-component-library-using-vites-library-mode-4lma
