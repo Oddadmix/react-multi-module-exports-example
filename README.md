@@ -5,7 +5,7 @@
 This example is to export multiple modules using vite + rollup config
 Update config to the entry file and once for each module
 
-```
+```ts
 //vite.config.ts
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
@@ -28,7 +28,6 @@ export default defineConfig({
     },
   },
 });
-
 ```
 
 - Make sure to create a file to each set to exports in a module similar to `lib/Button.ts` and `lib/Input.ts` (This will generate the `Module.d.ts` to be used for types for the module)
