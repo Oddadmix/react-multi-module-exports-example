@@ -40,7 +40,7 @@ export default defineConfig({
 
 This library can be consumed as
 
-```
+```ts
 //Example of usage
-import { Button } from 'react-multi-module-exports-example/Button'
+import { Button } from 'react-multi-module-exports-example/Button';
 ```
